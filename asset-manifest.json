@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/linkedin-clone-wip/static/css/main.206a7628.css",
+    "main.js": "/linkedin-clone-wip/static/js/main.3bdd6b42.js",
+    "static/media/Duke_profile.png": "/linkedin-clone-wip/static/media/Duke_profile.8322cf89398b93af1b96.png",
+    "index.html": "/linkedin-clone-wip/index.html",
+    "main.206a7628.css.map": "/linkedin-clone-wip/static/css/main.206a7628.css.map",
+    "main.3bdd6b42.js.map": "/linkedin-clone-wip/static/js/main.3bdd6b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206a7628.css",
+    "static/js/main.3bdd6b42.js"
+  ]
+}
